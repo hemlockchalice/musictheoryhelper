@@ -16,3 +16,4 @@ Future additions and changes:
 - custom color coding
 - new instrument aides other than just the piano
 - a timing & rhythm tab with a customizable sequencer to teach and learn timing, especially odd time signature concepts as well as percussion tablature
+- additions and improvements to the Help and Glossary sections
